@@ -18,4 +18,3 @@ public interface Observer {
     public void setSubject(Subject sub);
 }
 
-    
